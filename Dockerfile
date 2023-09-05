@@ -47,7 +47,7 @@ ENV SPRING_JPA_HIBERNATE_DDL-AUTO=update
 ENV SPRING_JPA_SHOW-SQL=true
 ENV SPRING_JPA_PROPERTIES_HIBERNATE_FORMAT_SQL=true
 ENV SPRING_JPA_JPA_PROPERTIES_HIBERNATE_DIALECT=org.hibernate.dialect.PostgreSQL81Dialect
-RUN echo 'ghp_HpJmOcuKsDby9tAsl9PLjPYlHrIet01THCTa'
+RUN echo 'ghp_abcdefghijklmnopqrstuvwxyzABCD012345'
 
 # Start HippoTech
 # ###############
